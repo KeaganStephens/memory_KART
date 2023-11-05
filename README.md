@@ -1,4 +1,4 @@
-#### Video link:
+#### Video link: https://youtube.com/shorts/b5i_YmuWi7c
 
 # MEMORY KART #
 
