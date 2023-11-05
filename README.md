@@ -1,6 +1,3 @@
-# memory_KART
-a memory game
-
 ####Video link:
 
 ####MEMORY KART####
