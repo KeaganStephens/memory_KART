@@ -2,12 +2,6 @@ from gpiozero import LED, Button, Buzzer
 import random
 import time
  
- 
-leds = [LED(17), LEDfrom gpiozero import LED, Button, Buzzer
-import random
-import time
- 
- 
 leds = [LED(17), LED(18), LED(27), LED(22), LED(23)]  # 5 LEDs
 buttons = [Button(5), Button(6), Button(13), Button(19), Button(26), Button(12)]  # 6 buttons
 buzzer = Buzzer(24)  # Buzzer GPIO pin
