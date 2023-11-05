@@ -1,12 +1,12 @@
-####Video link:
+#### Video link:
 
-####MEMORY KART####
+#### MEMORY KART ####
 
-##Game description:
+## Game description:
 
 The python code creates a memory and reaction-based game on a Raspberry Pi using the following GPIO components: LEDs, buttons, and a buzzer. The game consists of 5 levels and you start the game pressing the start button after running the program, with each level presenting a random sequence of LED lights and corresponding Morse code sounds using the buzzer to indicate the next round. Players must memorize the sequence as it plays, then replicate it by pressing the relevant buttons. If the player accurately reproduces the sequence, they move up to the next level with the next levels number in Morse code in beep form as feedback. If they make a mistake, the game ends with “You lose” in Morse code beep form. The goal is to complete all rounds without errors, and if successful, players receive congratulations with “You win” in Morse code beep form. The game can be interrupted at any time by pressing Ctrl+C, and it ensures that the program quits.
 
-##Who does what?
+## Who does what?
 Rainouw: Design, build.
 
 Almarie: Design, build.
@@ -16,7 +16,7 @@ Tara: Document, build, code creator, code reviewer.
 Keagan:  Code creator, build, document assistant, code reviewer.
 
 
-##What each function does:
+## What each function does:
 
 1. **Imports**: The code starts by importing the necessary modules from the `gpiozero` library, including ‘LED’, ‘Button’, ‘Buzzer’, ‘Time’ and ‘Random’, that allows us to control the lights and buttons on the Raspberry Pi.
 
