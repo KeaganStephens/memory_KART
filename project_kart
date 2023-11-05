@@ -48,7 +48,6 @@ wait = True
 rounds = 5
 index = 0
 allowed = False
-buzzer.off
  
 def play_sequence(sequence, speed): #the order I want the light to display
     for color in sequence:
