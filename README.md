@@ -42,6 +42,6 @@ Keagan:  Code creator, build, document assistant, code reviewer.
 
 12. **if score >= rounds**: It compares the score to the set amount of rounds and if the score is less than the rounds the morse code for ‘You lost’ will beep out of the buzzer but if the score is equal to the rounds it will beep out ‘You won’.
  
-##Citation:
+## Citation:
 
 Chat Gpt – We used Chat Gpt to fix a few inconveniences this includes the lambda function with the buttons when_pressed and the colourSequence function was inspired by chatGpt it also fixed the issue related to variable scope in checkIfCprrect function where it said to use the global keyword.
